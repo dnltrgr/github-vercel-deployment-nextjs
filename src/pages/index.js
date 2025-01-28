@@ -38,7 +38,7 @@ export default function Home() {
             <li>
               Get started by editing <code>src/pages/index.js</code>.
             </li>
-            <li>Everything worked well!! Thx to D Tröger!</li>
+            <li>Test Test Test</li>
           </ol>
 
           <div className={styles.ctas}>
